@@ -8,5 +8,5 @@ Download from Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerc
 
 <h3>Files</h3>
 <hr>
-brazil_ecom.db — the DuckDB file you can open with duckdb brazil_ecom.db --ui
+brazil_ecom.db — the DuckDB file you can open with duckdb brazil_ecom.db --ui <br>
 data/ — contains the raw CSV files from Kaggle
